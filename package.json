@@ -9,6 +9,9 @@
   "dependencies": {
     "fs": "^0.0.1-security",
     "fsp": "^0.1.2",
+    "tsc": "^2.0.4",
+    "tsx": "^4.7.2",
+    "typescript": "^5.4.5",
     "undici-types": "^5.26.5"
   },
   "scripts": {
